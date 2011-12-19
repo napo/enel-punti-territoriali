@@ -1,0 +1,19 @@
+body {
+	font-family:Arial,Verdana, Helvetica;
+	font-size:10px;
+}
+
+
+#map{
+	width:100%;
+	height:800px;
+}
+.infobox {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.mini {
+	font-size: xx-small;
+}
