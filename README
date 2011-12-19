@@ -1,4 +1,10 @@
 A simple map showing the data in
+
 http://data.enel.com/it/Punti_Enel_diretti
+
 by using OpenLayers with the cluster function
 and OpenStreetMap as background
+
+demo here
+
+http://de.straba.us/enel_punti_territoriali/
